@@ -1,0 +1,4 @@
+Name:         gouhar Ahmad
+Semester:     1st 
+department:   Computer science 
+insitutition: the swat degree college of technology
